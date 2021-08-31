@@ -96,6 +96,27 @@
     margin-left: 80px;
 }
 
+.container-home {
+    display: flex;
+    width: 1200px;
+    height: 100vh;
+    margin: auto;
+    display: flex;
+}
+
+.container-home-img {
+    display: flex;
+    width: 600px;
+    height: 100vh;
+    margin-left: -600px;
+    display: flex;
+}
+
+.container-home-img img {
+    width: 600px;
+    height: 600px;
+}
+
 .txt-section {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
